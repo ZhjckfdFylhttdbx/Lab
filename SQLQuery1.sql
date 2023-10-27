@@ -1,0 +1,1 @@
+﻿select count(*) from [dbo].[Table] where Фамилия = '1' and Имя =  '1' and Отчество = '1' and Группа = '1' and Пол = '1'
